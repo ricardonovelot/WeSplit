@@ -1,43 +1,68 @@
-# WeSplit2 - A SwiftUI Bill Splitting App
+# WeSplit App - SwiftUI Day 16 Challenge
+
+<table>
+<tr>
+<td>
 
 ## About the Project
 
-WeSplit2 is a bill splitting app created as part of Day 16 of the "Hacking with SwiftUI" course. The app is designed to make dividing a restaurant bill between a group of people effortless, including calculating tips according to user preferences.
+The WeSplit app, developed as part of Day 16's challenge in the "Hacking with Swift" course, is a SwiftUI-based app designed to make bill splitting simple and efficient. It serves as an introduction to the basic structure of SwiftUI apps and demonstrates core concepts in an applied context.
 
 ### Features
 
-- **Bill Amount Input:** Users can input the total bill amount.
-- **Number of People Selector:** Easily select the number of people sharing the bill.
-- **Tip Percentage Options:** Pre-defined tip percentages for convenience.
-- **Per Person and Total Amount Calculation:** Automatically calculates and displays the amount per person and the grand total including tips.
+- **Bill Amount Input:** Allows users to enter the total bill amount.
+- **Number of People Selector:** Users can select the number of people to split the bill with.
+- **Tip Percentage Selector:** Includes pre-defined tip percentages for easy selection.
+- **Per Person and Total Calculation:** Automatically calculates and displays the amount each person owes and the grand total including the tip.
+
+### Learning Experience
+
+This app represents key learnings from Day 16 of the course, including:
+- Understanding SwiftUI app structure.
+- Building forms, sections, and navigation stacks.
+- Utilizing `@State` and `@FocusState` property wrappers.
+- Implementing UI controls like `TextField` and `Picker`.
+- Using `ForEach` for view creation in loops.
+
+</td>
+<td>
 
 ![WeSplit2 App Demo](https://github.com/ricardonovelot/WeSplit/assets/84286086/fc8e8e72-2fd6-4e6d-a003-f7da85554e1a)
 
-
-### What I Learned
-
-Through developing WeSplit2, I gained understanding and practical experience in several key areas of SwiftUI, including:
-
-- Basic structure and lifecycle of a SwiftUI app.
-- Creating forms and sections using SwiftUI.
-- Implementing navigation stacks and customizing navigation bar titles.
-- State management using `@State` and `@FocusState`.
-- Building user interface controls like `TextField` and `Picker`.
-- Utilizing `ForEach` to create views in a loop.
+</td>
+</tr>
+</table>
 
 ## Installation and Usage
 
-[Instructions on how to install, set up, and use the WeSplit2 app.]
+To use the WeSplit app:
+
+1. Clone the repository:
+git clone https://github.com/ricardonovelot/WeSplit.git
+
+markdown
+Copy code
+2. Open the project in Xcode.
+3. Choose a target simulator or device.
+4. Run the application.
+
+Note: Xcode and an iOS simulator or device are required to run this app.
 
 ## Contributing
 
-Contributions to enhance WeSplit2 are welcome. Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
+Your contributions to improve WeSplit are welcomed. Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the [LICENSE.md] file for details.
+This project is under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- "Hacking with SwiftUI" course for the foundational knowledge and project structure.
-- All supporters and contributors to this educational journey.
+- "Hacking with Swift" course for foundational SwiftUI concepts and project structure.
+- The SwiftUI community for inspiration and support.
