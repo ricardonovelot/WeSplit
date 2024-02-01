@@ -13,7 +13,7 @@ The WeSplit app, developed as part of Day 16's challenge in the "Hacking with Sw
 - **Bill Amount Input:** Allows users to enter the total bill amount.
 - **Number of People Selector:** Users can select the number of people to split the bill with.
 - **Tip Percentage Selector:** Includes pre-defined tip percentages for easy selection.
-- **Per Person and Total Calculation:** Automatically calculates and displays the amount each person owes and the grand total including the tip.
+- **Per Person and Total Calculation:** Automatically calculates and displays the amount each person owes and the total including the tip.
 
 ### Learning Experience
 
@@ -39,24 +39,11 @@ To use the WeSplit app:
 
 1. Clone the repository:
 git clone https://github.com/ricardonovelot/WeSplit.git
-
-markdown
-Copy code
 2. Open the project in Xcode.
 3. Choose a target simulator or device.
 4. Run the application.
 
 Note: Xcode and an iOS simulator or device are required to run this app.
-
-## Contributing
-
-Your contributions to improve WeSplit are welcomed. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
 
 ## License
 
