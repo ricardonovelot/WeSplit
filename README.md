@@ -11,7 +11,8 @@ WeSplit2 is a bill splitting app created as part of Day 16 of the "Hacking with 
 - **Tip Percentage Options:** Pre-defined tip percentages for convenience.
 - **Per Person and Total Amount Calculation:** Automatically calculates and displays the amount per person and the grand total including tips.
 
-![WeSplit2 App Demo](URL-of-the-app-demo-gif)
+![WeSplit2 App Demo](https://github.com/ricardonovelot/WeSplit/assets/84286086/fc8e8e72-2fd6-4e6d-a003-f7da85554e1a)
+
 
 ### What I Learned
 
