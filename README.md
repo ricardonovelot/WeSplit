@@ -15,20 +15,13 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 - **Tip Percentage Selector:** Includes pre-defined tip percentages for easy selection.
 - **Per Person and Total Calculation:** Automatically calculates and displays the amount each person owes and the total including the tip.
 
-### Technical Highlights
-
-- SwiftUI framework for UI development.
-- Integration of `@State` and `@FocusState` for managing local UI state.
-- `TextField` and `Picker` for input handling.
-- Dynamic UI with `ForEach` to generate views within loops.
-
 
 </td>
 <td>
 
 ### Preview
 
-![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-4](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/b8278b30-eee8-43e7-9ba3-4ae473b4efb1)
+![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-6](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/7b4451be-9299-4608-8ffa-0040981a5dc7)
 
 </td>
 </tr>
