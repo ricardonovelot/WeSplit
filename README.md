@@ -22,10 +22,11 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 - `TextField` and `Picker` for input handling.
 - Dynamic UI with `ForEach` to generate views within loops.
 
+
 </td>
 <td>
 
-![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-2](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/44535ec5-10f7-4899-8bd5-65af8ca0dc60)
+![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-4](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/b8278b30-eee8-43e7-9ba3-4ae473b4efb1)
 
 </td>
 </tr>
