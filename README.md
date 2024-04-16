@@ -17,7 +17,6 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 
 ### Technical Highlights
 
-- SwiftUI framework for UI development.
 - Integration of `@State` and `@FocusState` for managing local UI state.
 - `TextField` and `Picker` for input handling.
 - Dynamic UI with `ForEach` to generate views within loops.
