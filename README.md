@@ -6,7 +6,7 @@
 
 ## About the Project
 
-The WeSplit app, developed as part of Day 16's challenge in the "Hacking with Swift" course, is a SwiftUI-based app designed to make bill splitting simple and efficient. It serves as an introduction to the basic structure of SwiftUI apps and demonstrates core concepts in an applied context.
+The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple and efficient.
 
 ### Features
 
