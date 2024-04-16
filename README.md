@@ -27,7 +27,7 @@ This app represents key learnings from Day 16 of the course, including:
 </td>
 <td>
 
-![WeSplit2 App Demo](https://github.com/ricardonovelot/WeSplit/assets/84286086/fc8e8e72-2fd6-4e6d-a003-f7da85554e1a)
+![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-2](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/44535ec5-10f7-4899-8bd5-65af8ca0dc60)
 
 </td>
 </tr>
