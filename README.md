@@ -1,4 +1,4 @@
-# WeSplit App - SwiftUI Day 16 Challenge
+# WeSplit App
 
 <table>
 <tr>
