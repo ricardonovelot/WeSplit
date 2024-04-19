@@ -32,11 +32,14 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 </table>
 <tr>
   
+    
   ### Interactive Preview
   ![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-6](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/7b4451be-9299-4608-8ffa-0040981a5dc7)
+
+ 
   
-<tr>
-<table>
+</tr>
+</table>
 
 
 </table>
