@@ -53,12 +53,13 @@ This project is under the MIT License. See the [LICENSE.md](LICENSE.md) file for
 - "Hacking with Swift" course for foundational SwiftUI concepts and project structure.
 - The SwiftUI community for inspiration and support.
 
-### Interactive Preview
+## Interactive Preview
 <table style="border: none;">
 <tr style="border: none;">
   <td style="border: none;">
   </td>
   <td width="34%" style="border: none;">
+    
 ![301410291-fc8e8e72-2fd6-4e6d-a003-f7da85554e1a-6](https://github.com/ricardonovelot/WeSplit-SwiftUIDay16Challenge/assets/84286086/7b4451be-9299-4608-8ffa-0040981a5dc7) 
 
  </td>
