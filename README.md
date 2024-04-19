@@ -42,8 +42,6 @@ git clone https://github.com/ricardonovelot/WeSplit.git
 3. Choose a target simulator or device.
 4. Run the application.
 
-Note: Xcode and an iOS simulator or device are required to run this app.
-
 ## License
 
 This project is under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
