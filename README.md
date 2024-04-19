@@ -30,6 +30,9 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 </td>
 </tr>
 </table>
+
+
+<table>
 <tr>
   
     
@@ -42,7 +45,7 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 </table>
 
 
-</table>
+
 
 ## Installation and Usage
 
