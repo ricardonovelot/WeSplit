@@ -21,7 +21,7 @@ WeSplit is designed to make bill splitting simple and efficient.
 - `TextField` and `Picker` for input handling.
 - Dynamic UI with `ForEach` to generate views within loops.
 
-</h2>Go Back to <a href="https://github.com/ricardonovelot/Projects">Old Projects</a> Here!</h2>
+<h2>Go Back to <a href="https://github.com/ricardonovelot/Projects">Old Projects</a></h2>
 
 </td>
 <td>
