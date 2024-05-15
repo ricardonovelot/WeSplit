@@ -1,4 +1,4 @@
-# WeSplit App
+# WeSplit
 
 <table>
 <tr>
@@ -6,7 +6,7 @@
 
 ## About the Project
 
-The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple and efficient.
+WeSplit is designed to make bill splitting simple and efficient.
 
 ### Features
 
@@ -20,6 +20,8 @@ The WeSplit app, is a SwiftUI-based app designed to make bill splitting simple a
 - Integration of `@State` and `@FocusState` for managing local UI state.
 - `TextField` and `Picker` for input handling.
 - Dynamic UI with `ForEach` to generate views within loops.
+
+</h2>Go Back to <a href="https://github.com/ricardonovelot/Projects">Old Projects</a> Here!</h2>
 
 </td>
 <td>
