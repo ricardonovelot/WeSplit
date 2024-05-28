@@ -21,8 +21,6 @@ WeSplit is designed to make bill splitting simple and efficient.
 - `TextField` and `Picker` for input handling.
 - Dynamic UI with `ForEach` to generate views within loops.
 
-<h2>Go Back to <a href="https://github.com/ricardonovelot/Projects">Old Projects</a></h2>
-
 </td>
 <td>
 
@@ -53,7 +51,7 @@ This project is under the MIT License. See the [LICENSE.md](LICENSE.md) file for
 - "Hacking with Swift" course for foundational SwiftUI concepts and project structure.
 - The SwiftUI community for inspiration and support.
 
-## Interactive Preview
+## Video Preview
 <table style="border: none;">
 <tr style="border: none;">
   <td style="border: none;">
@@ -67,3 +65,7 @@ This project is under the MIT License. See the [LICENSE.md](LICENSE.md) file for
   </td>
 </tr>
 </table>
+
+<br>
+<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">Go Back to Old Projects ↩</a></h3>
+<br>
